@@ -27,3 +27,12 @@ input{
 img{
     max-width: 100%;
 }
+
+button{
+    cursor: pointer;
+}
+
+::-webkit-scrollbar{
+    display: none;
+  }
+  
